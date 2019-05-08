@@ -1,0 +1,4 @@
+#Wed May 08 22:00:41 CEST 2019
+base.0=C\:\\Users\\bs29869\\Downloads\\projekt\\ZUTWizards-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
